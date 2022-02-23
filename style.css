@@ -1,0 +1,83 @@
+* {
+	font-family: "New Courier", monospace;
+	font-size: 20px;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+.background {
+	background-image: url(./Images/background.png);
+	height: 100%;
+}
+
+#nica {
+	height: 400px;
+	weight: 300px;
+	border-radius: 250px;
+	padding: 20px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+p {
+	text-align: center;
+	margin-left: 15%;
+	margin-right: 15%;
+	padding-bottom: 30px;
+
+}
+h1 {
+	padding: 2%;
+	font-size: 30px;
+	text-align: center;
+}
+
+#arrow {
+	padding: auto;
+  	height: 100px;
+  	width: 100px;
+
+}
+body {
+	background-image: url(./Images/background-3.jpg);
+}
+
+#img24 {
+	height: 400px;
+	weight: 300px;
+	border-radius: 250px;
+	padding: 20px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+section img{
+	height: 350px;
+	width: 350px;
+	padding: 3%;
+	border-radius: 250px;
+	vertical-align: top;
+	margin-left: 5%;
+}
+
+#goofy img {
+	height: 350px;
+	width: 350px;
+	padding: 3%;
+	border-radius: 250px;
+	vertical-align: top;
+	margin-left: 5%;
+}
+
+h2 {
+	padding: 2%;
+	font-size: 30px;
+	text-align: center;
+	background-color: #ffffcc;
+}
